@@ -37,7 +37,7 @@ public class BlogController {
     }
 
     /**
-     * トピックをポスト（登録）します。
+     * トピックをポスト（登録）しますぜ。
      *
      * @param topic
      *            トピック
